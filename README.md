@@ -1,4 +1,31 @@
-# accidentesAereos
+<h1 align="center"> Accidentes Aereos  </h1>
+
+
+# INTRODUCCION.
+
+El presente proyecto analiza el conjunto de datos de la Organización de Aviación Civil Internacional (OACI),
+que entrega información acerca de accidentes aéreos presentados a nivel mundial entre los años 1908 y 2021. En el análisis exploratorio de datos se logra conocer, entre otras cosas, el país con mas número de accidentes, el fabricante de aviones menos afortunado, las rutas de vuelo mas siniestradas, aparece también que las pruebas de vuelo, las demostraciones y las operaciones militares aportan un gran número de accidentes.
+
+
+as
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Data Analyst
 
 
