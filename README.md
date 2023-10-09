@@ -59,8 +59,11 @@ En el desarrollo del análisis exploratorio de datos, es inevitable no caer en l
 
 ![Alt text](output.png)
 
+Evidentemente la realidad enseña que en un avión viajan mas pasajeros que tripulantes y las gráficas muestran que es desproporcionado el número de víctimas entre el primero y el segundo grupo, en el conjunto de datos estudiado. En pocos casos los pasajeros superan las 300 victimas en un siniestro, ha no ser que ocurra una tragedia de tipo terrorista (ataques a EEUU) o una desaparición durante un vuelo (Malasya Airlines).
 
+frfrgrfrfrfrfrfr
 
+![Alt text](diagramacaja.png)
 
 
 
