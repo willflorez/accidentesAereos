@@ -1,12 +1,26 @@
 <h1 align="center"> Accidentes Aereos  </h1>
 
 
+<p align="center">
+<img src=https://th.bing.com/th/id/R.5554814c2a1e3fcae2fd53f3ad1c81c2?rik=g29HUUEaqtLZ0g&riu=http%3a%2f%2f3.bp.blogspot.com%2f-7bc3GooJBHg%2fTVRooDxkVOI%2fAAAAAAAAABI%2fohZzSQy5MBk%2fw1200-h630-p-k-no-nu%2fflight815-des.jpg&ehk=gr%2brjd9uxyZS48qM4lNQLViZpmaA8s%2fyWjvJVggfpAI%3d&risl=&pid=ImgRaw&r=0
+</p>
 
-https://th.bing.com/th/id/R.5554814c2a1e3fcae2fd53f3ad1c81c2?rik=g29HUUEaqtLZ0g&riu=http%3a%2f%2f3.bp.blogspot.com%2f-7bc3GooJBHg%2fTVRooDxkVOI%2fAAAAAAAAABI%2fohZzSQy5MBk%2fw1200-h630-p-k-no-nu%2fflight815-des.jpg&ehk=gr%2brjd9uxyZS48qM4lNQLViZpmaA8s%2fyWjvJVggfpAI%3d&risl=&pid=ImgRaw&r=0
 
-
-![Alt text](output.png)
-
+## Índice 
+<!-- TABLA DE CONTENIDO -->
+<details>
+  <summary>Tabla de contenido</summary>
+  <ol>  
+    <li><a href="#Introducción">Introducción</a></li>
+    <li><a href="#Objetivo">Objetivo</a></li>
+    <li><a href="#Conjunto-de-Tecnologías">Conjunto de Tecnologías</a></li>
+    <li><a href="#EDA">EDA</a></li>
+    <li><a href="#KPI1">KPI 1</a></li>
+    <li><a href="#KPI2">KPI 2</a></li>
+    <li><a href="#KPI3">KPI 3</a></li>
+	<li><a href="#Conclusiones">Conclusiones</a></li>
+  </ol>
+</details>
 
 
 
@@ -15,8 +29,44 @@ https://th.bing.com/th/id/R.5554814c2a1e3fcae2fd53f3ad1c81c2?rik=g29HUUEaqtLZ0g&
 El presente proyecto analiza el conjunto de datos de la Organización de Aviación Civil Internacional (OACI),
 que entrega información acerca de accidentes aéreos presentados a nivel mundial entre los años 1908 y 2021. En el análisis exploratorio de datos se logra conocer, entre otras cosas, el país con mas número de accidentes, el fabricante de aviones menos afortunado, las rutas de vuelo mas siniestradas, aparece también que las pruebas de vuelo, las demostraciones y las operaciones militares aportan un gran número de accidentes.
 
+# OBJETIVO.
 
-as
+1. Analizar a profundidad el conjunto de datos para obtener información relevante acerca de los accidentes.
+
+2. Entender el mensaje que los datos estan entregando, basado en la interpretación de las variables numéricas y categóricas y la relación entre ellas.
+
+3. Realizar un tablero de control que presente la información analizada de manera clara y concisa, con una historia coherente y conclusiones acertadas.
+
+4. Graficar en el tablero de control dos indicadores de gestión, el propuesto en el proyecto y el decidido por mi, reducción del 10% de la tasa de fallecimientos de tripulantes (propuesto en el proyecto) y de pasajeros (propuesto por el autor) respecto de la decada anterior.
+
+5. Construir un README detallado con el fin que el lector comprenda los puntos anteriores y sea suficiente para exponer el trabajo realizado por mi.
+
+## Conjunto de Tecnologías
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+![Alt text](output.png)
 
 
 
