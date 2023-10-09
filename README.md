@@ -79,8 +79,18 @@ La cantidad de muertes reportadas por accidentes aéreos muestra un número de f
 
 4. GRAFICO DE PARES.
 
+
+La diagonal principal de la gráfica dice que la variable númerica de tripulantes fallecidos no es directamente proporcional a la variable número de muertes (los tripulantes no aportan gran número de vítimas) al contrario que la cantidad de pasajeros fallecidos, dicho de otra manera la mayor cantidad de fallecimientos totales son de pasajeros. Este resultado es lógico y esperado, en las aeronaves van más pasajeros que tripulantes.
+Ahora bien, no hay relación entre pasajeros y tripulantes, son grupos excluyentes la misma persona no clasifica al mismo tiempo en los dos grupos de estudio.
+
 ![Alt text](PARES.png)
 
+5. DIAGRAMA DE BARRAS.
+
+
+La aerolínea rusa Aeroflot es la que mas veces se repite en el conjunto de datos analizado, tambien las fuerzas militares de EEUU, cuando de analizar la columna de operadores se trata. En esa misma columna aparecen actividades como el entrenamineto de vuelo y el turismo como las principales acciones cuando ocurren los siniestros.
+
+![Alt text](BARRAS.png)
 
 
 
@@ -90,7 +100,7 @@ La cantidad de muertes reportadas por accidentes aéreos muestra un número de f
 
 
 
-
+hallazgos
 Data Analyst
 
 
