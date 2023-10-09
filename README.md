@@ -1,4 +1,4 @@
-<h1 align="center"> Accidentes Aereos  </h1>
+<h1 align="center"> ACCIDENTES AEREOS OACI  </h1>
 
 
 <p align="center">
@@ -6,19 +6,18 @@
 </p>
 
 
-## Índice 
+# INDICE 
 <!-- TABLA DE CONTENIDO -->
 <details>
-  <summary>Tabla de contenido</summary>
+  <summary>TABLA DE CONTENIDO</summary>
   <ol>  
-    <li><a href="#Introducción">Introducción</a></li>
-    <li><a href="#Objetivo">Objetivo</a></li>
-    <li><a href="#Conjunto-de-Tecnologías">Conjunto de Tecnologías</a></li>
+    <li><a href="#INTRODUCCION">INTRODUCCION</a></li>
+    <li><a href="#OBJETIVO">OBJETIVO</a></li>
+    <li><a href="#CONJUNTO DE TECNOLOGIAS">CONJUNTO DE TECNOLOGIAS</a></li>
     <li><a href="#EDA">EDA</a></li>
     <li><a href="#KPI1">KPI 1</a></li>
     <li><a href="#KPI2">KPI 2</a></li>
-    <li><a href="#KPI3">KPI 3</a></li>
-	<li><a href="#Conclusiones">Conclusiones</a></li>
+    <li><a href="#CONCLUSIONES">CONCLUSIONES</a></li>
   </ol>
 </details>
 
@@ -41,7 +40,7 @@ que entrega información acerca de accidentes aéreos presentados a nivel mundia
 
 5. Construir un README detallado con el fin que el lector comprenda los puntos anteriores y sea suficiente para exponer el trabajo realizado por mi.
 
-## Conjunto de Tecnologías
+# CONJUNTO DE TECNOLOGIAS
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
