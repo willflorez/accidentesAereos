@@ -71,7 +71,15 @@ Este diagrama tiene en cuenta las tasas de fallecimiento y su respectiva distrib
 
 El valor por fuera de los bigotes corresponde a una disminución significativa de la tasa de fallecimiento de los tripulantes.
 
+3. GRAFICO DE DENSIDAD.
 
+La cantidad de muertes reportadas por accidentes aéreos muestra un número de fallecidos inferior a 10 por evento,una de las razones es la baja frecuencia de vuelos al inicio de la industria, otra, es que los viajes en avión hoy por hoy son el medio de transporte mas confiable y seguro que hay, gracias al avance de la ingeniería aeronaútica.
+
+![Alt text](DENSIDAD.png)
+
+4. GRAFICO DE PARES.
+
+![Alt text](PARES.png)
 
 
 
