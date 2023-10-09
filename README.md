@@ -55,17 +55,21 @@ que entrega información acerca de accidentes aéreos presentados a nivel mundia
 
 # EDA.
 
+1. HISTOGRAMA.
+
 En el desarrollo del análisis exploratorio de datos, es inevitable no caer en la tentación, de empezar por conocer el comportamiento de la cantidad de fallecidos de tripulantes y pasajeros y el número de accidentes en los que se han visto involucrados. Y es que el conjunto de datos es precisamente sobre accidentes aéreos y fallecidos. Escrito esto la imagen a continuación:
 
 ![Alt text](output.png)
 
 Evidentemente la realidad enseña que en un avión viajan mas pasajeros que tripulantes y las gráficas muestran que es desproporcionado el número de víctimas entre el primero y el segundo grupo, en el conjunto de datos estudiado. En pocos casos los pasajeros superan las 300 victimas en un siniestro, ha no ser que ocurra una tragedia de tipo terrorista (ataques a EEUU) o una desaparición durante un vuelo (Malasya Airlines).
 
-frfrgrfrfrfrfrfr
+2. DIAGRAMA DE CAJA.
+
+Este diagrama tiene en cuenta las tasas de fallecimiento y su respectiva distribución, está mas agrupada la tasa que corresponde a los tripulantes fallecidos, normalmente el número de tripulantes es el mismo vuelo a vuelo, no así el de pasajeros.
 
 ![Alt text](diagramacaja.png)
 
-
+El valor por fuera de los bigotes corresponde a una disminución significativa de la tasa de fallecimiento de los tripulantes.
 
 
 
