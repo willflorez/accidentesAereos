@@ -13,7 +13,7 @@
   <ol>  
     <li><a href="#INTRODUCCION">INTRODUCCION</a></li>
     <li><a href="#OBJETIVO">OBJETIVO</a></li>
-    <li><a href="#CONJUNTO DE TECNOLOGIAS">CONJUNTO DE TECNOLOGIAS</a></li>
+    <li><a href="#CONJUNTO-DE-TECNOLOGIAS">CONJUNTO DE TECNOLOGIAS</a></li>
     <li><a href="#EDA">EDA</a></li>
     <li><a href="#KPI1">KPI 1</a></li>
     <li><a href="#KPI2">KPI 2</a></li>
