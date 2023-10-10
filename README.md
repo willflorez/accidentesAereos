@@ -87,14 +87,16 @@ Ahora bien, no hay relación entre pasajeros y tripulantes, son grupos excluyent
 
 5. DIAGRAMA DE BARRAS.
 
-
 La aerolínea rusa Aeroflot es la que mas veces se repite en el conjunto de datos analizado, tambien las fuerzas militares de EEUU, cuando de analizar la columna de operadores se trata. En esa misma columna aparecen actividades como el entrenamineto de vuelo y el turismo como las principales acciones cuando ocurren los siniestros.
 
 ![Alt text](BARRAS.png)
 
+6.  GRAFICO DE PASTEL.
 
 
+La aeronave de la constructora Douglas es la que más veces aparece en el análisis del conjunto de datos, es de origen estadounidense, se puede creer que durante las pruebas de sus aviones en suelo norteamericano se presentaron muchos accidentes (EEUU es el país con mas números de siniestros). Dato: Boeing también es estadounidense.
 
+![Alt text](PASTEL.png)
 
 
 
