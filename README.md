@@ -98,7 +98,18 @@ La aeronave de la constructora Douglas es la que más veces aparece en el análi
 
 ![Alt text](PASTEL.png)
 
+7. GRAFICO DE LINEAS.
 
+
+La gráfica muestra como con el paso del tiempo la cantidad de accidentes ha aumentado. Al principio del siglo XX la cantidad de fallecidos no tenia los números que a mitad de siglo, los accidentes se mitigaron por la baja frecuencia de vuelos y aparecieron por la inseguridad de los aviones . Para inicios del siglo XXI la tendencia es a la baja dado los avances en ingeniería y el uso de tecnologías de geoposición y ayudas como chalecos salvavidas y fuselajes de materiales cada vez mas resistentes.
+
+![Alt text](LINEAS.png)
+
+8. NUBE DE PALABRAS.
+
+palabras
+
+![Alt text](palabras.png)
 
 
 
