@@ -118,20 +118,21 @@ La columna summary entrega una descripción de aquellos eventos y posibles causa
 
 ![Alt text](summary.png)
 
-# KPI's
+# KPI's.
 
-El KPI propuesto por el proyecto es reducir en un 10% la tasa de tripulantes fallecidos respecto de la década anterior. Aquí la imagen del comportamiento a lo largo de las décadas de la suma de tripulantes fallecidos y su correspondiente tasa(se define la tasa de fatalidad de la tripulación como el número total de tripulantes fallecidos en los accidentes registrados en la década a considerar, dividido en la cantidad total de accidentes aéreos ocurridos en este período de tiempo. Su fórmula es: suma total de fallecidos en el período de tiempo / suma total de accidentes en el período de tiempo).
-
+1. El KPI propuesto por el proyecto es reducir en un 10% la tasa de tripulantes fallecidos respecto de la década anterior. Aquí la imagen del comportamiento a lo largo de las décadas de la suma de tripulantes fallecidos y su correspondiente tasa(se define la tasa de fatalidad de la tripulación como el número total de tripulantes fallecidos en los accidentes registrados en la década a considerar, dividido en la cantidad total de accidentes aéreos ocurridos en este período de tiempo. Su fórmula es: suma total de fallecidos en el período de tiempo / suma total de accidentes en el período de tiempo).
 
 ![Alt text](tripulantes.png)
 
+La gráfica muestra en la linea azul clara el comportamiento de la tasa de tripulantes fallecidos a lo largo del periodo de tiempo estudiado, la pendiente positiva significa incremento y la negativa decrecimiento. La línea azul oscura muestra el comportamiento del KPI, o sea es la tasa que se espera obtener(-10%), de esa manera en 1930 se esperaba una tasa de 2.28 y se obtuvo una de 1.73, en 1990 se esperaba una tasa de 3.67 y se obtuvo una de 3.55, en 2030 (lo que va corrido de esta década) se esperaba una tasa de 3.39 y se obtuvo una de 3.29, estas son las décadas donde el KPI se cumple.
 
-
-
+2. El KPI propuesto por el autor es reducir en un 10% la tasa de pasajeros fallecidos respecto de la década anterior. Aquí la imagen del comportamiento a lo largo de las décadas de la suma de pasajeros fallecidos y su correspondiente tasa(se define la tasa de fatalidad de los pasajeros como el número total de pasajeros fallecidos en los accidentes registrados en la década a considerar, dividido en la cantidad total de accidentes aéreos ocurridos en este período de tiempo. Su fórmula es: suma total de fallecidos en el período de tiempo / suma total de accidentes en el período de tiempo).
 
 ![Alt text](pasajeros.png)
 
+La gráfica muestra en la linea azul clara el comportamiento de la tasa de pasajeros fallecidos a lo largo del periodo de tiempo estudiado, la pendiente positiva significa incremento y la negativa decrecimiento. La línea azul oscura muestra el comportamiento del KPI, o sea es la tasa que se espera obtener(-10%), de esa manera en 1930 se esperaba una tasa de 2.70 y se obtuvo una de 1.90, en 1990 se esperaba una tasa de 26.43 y se obtuvo una de 24.71, en 2000 se esperaba una tasa de 22.24 y se obtuvo una de 21.56, en 2010 se esperaba una tasa de 19.40 y se obtuvo una de 18.67, en 2030 (lo que va corrido de esta década) se esperaba una tasa de 21.57 y se obtuvo una de 16.43 estas son las décadas donde el KPI se cumple.
 
+# CONCLUSIONES.
 
 
 
