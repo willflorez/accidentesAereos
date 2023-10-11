@@ -134,16 +134,16 @@ La gráfica muestra en la linea azul clara el comportamiento de la tasa de pasaj
 
 # CONCLUSIONES.
 
+1. El conjunto de datos nos da información acerca de la aerolínea mas siniestrada, entre las que se cuentan Aeroflot y Air France como las mas representativas, con mas de 300 participaciones en hechos trágicos. Las fuerzas miitares de varios paises aportan un gran número de víctimas.
 
+2. Dentro de las actividades mas peligrosas están las relacionadas con el turismo, la práctica de vuelo y el entrenamiento en aeronaves nuevas.
 
+3. No existe una ruta que se pueda marcar como peligrosa o temida, en el conjunto de datos hay gran variedad de rutas, es tan extenso el universo de viajes que se concluye que no es una medida de siniestralidad. Hay una gran cantidad de valores únicos. Los accidentes ocurren en cualquier lugar del mundo, cubriendo cualquier ruta, sea larga o corta.
 
+4. Los cielos de Rusia y EEUU son el escenario de mas accidentes con víctimas fatales, el 72% de los hechos ocurren allí. 
 
+5. Respecto de las aeronaves, los fabricantes Douglas, Boeing y Havilland encabezan la oscura lista de los menos afortunados, en el 84% de los accidentes registrados en el conjunto de datos aparecen sus nombres.
 
+6. Gráficamente en lo que respecta al análisis de los KPI's, si la linea azul clara está por debajo de la oscura es un indicador que posiblemente en esa área se cumplió el KPI, hay casos en los que esto ocurre, pero, no alcanza el KPI.
 
-hallazgos
-Data Analyst
-
-
-Evaluar la disminución de un 10% la tasa de fatalidad de la tripulación en los últimos 10 años, comparado a la década anterior.
-
-Definimos la tasa de fatalidad de la tripulación como el número total de tripulantes fallecidos en los accidentes registrados en la década a considerar, dividido en la cantidad total de accidentes aéreos ocurridos en este período de tiempo. Su fórmula es (Suma total de fallecidos en el período de tiempo / Suma total de accidentes en el período de tiempo).
+7. La cantidad de pasajeros muertos es directamente propocional al número de victimas totales (es el grupo que mas víctimas registra, cuando el número de pasajeros aumenta tambien lo hace el de víctimas), los tripulantes son el 15% del total de fallecidos (17778 de 111396).
