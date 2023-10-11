@@ -15,8 +15,7 @@
     <li><a href="#OBJETIVO">OBJETIVO</a></li>
     <li><a href="#CONJUNTO-DE-TECNOLOGIAS">CONJUNTO DE TECNOLOGIAS</a></li>
     <li><a href="#EDA">EDA</a></li>
-    <li><a href="#KPI1">KPI 1</a></li>
-    <li><a href="#KPI2">KPI 2</a></li>
+    <li><a href="#KPI's">KPI's</a></li>    
     <li><a href="#CONCLUSIONES">CONCLUSIONES</a></li>
   </ol>
 </details>
@@ -107,9 +106,36 @@ La gráfica muestra como con el paso del tiempo la cantidad de accidentes ha aum
 
 8. NUBE DE PALABRAS.
 
-palabras
+Existe una columna en el conjunto de datos que se llama Route y hace referencia a la ruta que cubría el vuelo el dia del accidente. Con la ayuda de nube de palabras se resalta el nombre de las ciudades que mas veces aparece en dicha columna.
 
 ![Alt text](palabras.png)
+
+Paris, New York, Londres, Miami, Rio de Janeiro y Moscú se cuentan entre las ciudades mas visibles.
+
+9. NUBE DE PALABRAS COLUMNA SUMMARY.
+
+La columna summary entrega una descripción de aquellos eventos y posibles causas que rodearon el siniestro. Con la ayuda de una nube de palabras se busca encontrar la clave que devele el misterio del siniestro. Es asi que se evidencia que la frase 'se estrelló' es una de las mas visibles, las palabras aeronave, pista. tripulación, avión y piloto resaltan a primera vista.
+
+![Alt text](summary.png)
+
+# KPI's
+
+El KPI propuesto por el proyecto es reducir en un 10% la tasa de tripulantes fallecidos respecto de la década anterior. Aquí la imagen del comportamiento a lo largo de las décadas de la suma de tripulantes fallecidos y su correspondiente tasa(se define la tasa de fatalidad de la tripulación como el número total de tripulantes fallecidos en los accidentes registrados en la década a considerar, dividido en la cantidad total de accidentes aéreos ocurridos en este período de tiempo. Su fórmula es: suma total de fallecidos en el período de tiempo / suma total de accidentes en el período de tiempo).
+
+
+![Alt text](tripulantes.png)
+
+
+
+
+
+![Alt text](pasajeros.png)
+
+
+
+
+
+
 
 
 
